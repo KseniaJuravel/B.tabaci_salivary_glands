@@ -5,6 +5,14 @@ In this work you can find the codes and explanations for
 in the whiteflies of the *Bemisia tabaci* (Gennadius) (Hemiptera: Aleyrodidae) MEAM1.
 
 The SRA*** files where obtained from:
+1. RNAseq of salivary glands
+   Identifiers:	BioSample: SAMEA4682676; SRA: ERS2502869
+   Organism:	Bemisia tabaci
+   Accession: SAMEA4682676	ID: 12215746
+2. Identification of Saliva Proteins of the Whitefly Bemisia tabaci by Transcriptome
+   Identifiers:	BioSample: SAMN13381603 ; SRA: SRS5714533
+   Organism:	Bemisia tabaci
+   Accession: SAMN13381603
 
 
 
