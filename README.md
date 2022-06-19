@@ -23,7 +23,7 @@ The reads where mapped and manually analyzed using the following commands:
 
 
 
-for i in Cap_*.fa; do bowtie2-build $i $i; done
+for i in XM_*.fa; do bowtie2-build $i $i; done
 
 `______________________________________________________________________________`
 
@@ -31,11 +31,16 @@ for i in Cap_*.fa; do bowtie2-build $i $i; done
 
 `______________________________________________________________________________`
 
-for i in Cap_*.fa; do bowtie2 --fast -p 16 -x $i  -1 *_R1.fastq.gz -2 *_R2.fastq.gz -U Single_R.fastq.gz -S $i.sam | samtools sort -@ 12 -T temp -o $i.sorted.bam; done
+for i in XM_*.fa; do bowtie2 --fast -p 16 -x $i  -1 *_R1.fastq.gz -2 *_R2.fastq.gz -U Single_R.fastq.gz -S $i.sam 
 
 `______________________________________________________________________________`
 
 
+`______________________________________________________________________________`
+
+for i in XM_*.sam ; do samtools view -bS $i | samtools sort -o $i.sorted.bam ; done
+
+`______________________________________________________________________________`
 
 `______________________________________________________________________________`
 
