@@ -44,6 +44,6 @@ for i in XM_*.sam ; do samtools view -bS $i | samtools sort -o $i.sorted.bam ; d
 
 `______________________________________________________________________________`
 
-samtools index file.sorted.bam  file.sorted.bam.bai
+for i in XM_*.sorted.bam; do samtools index $i $i.bai; done
 
 `______________________________________________________________________________`
