@@ -1,8 +1,7 @@
 # B.tabaci_salivary_glands
 
 
-In this work you can find the codes and explanations for 
-in the whiteflies of the *Bemisia tabaci* (Gennadius) (Hemiptera: Aleyrodidae) MEAM1.
+In this work you can find the codes and explanations for the possibilty to find differentially expressed cathepsin B and L genes from figures 5 and 6 in the salivary glandsof the whitefly *Bemisia tabaci* (Gennadius) (Hemiptera: Aleyrodidae) MEAM1.
 
 The SRA*** files where obtained from:
 1. RNAseq of salivary glands
