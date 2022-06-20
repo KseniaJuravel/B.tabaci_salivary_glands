@@ -1,4 +1,4 @@
-# B.tabaci_salivary_glands #
+# B.tabaci's salivary glands genes identification #
 
 
 This repository includes all the codes, results  and explanations for the identification 
