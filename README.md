@@ -112,6 +112,12 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 
 
+Gene | mRNA | Protein | Reads coverage | Likelihood of signal peptide | 
+-- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+X | X | X | ![NAME OF GENE](http://url/to/img.png) | X | 
+
+
+
 תכניסי לתיקיה של הResults את התמונות בפורמט png ואז תדביקי את ה link = http://url/to/img.png אליהן, תראי דוגמא לזה בתוצאות של הסיגנל פפטייד.
 
 ![NAME OF GENE](http://url/to/img.png)
