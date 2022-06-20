@@ -145,7 +145,7 @@ All seven well aligned genes had a likelihood of signal peptide above 0.8032.
 
 ### Supplementary Data: ###
 
-[Genes simmilarity analysis]([LINK](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Multiple_alignment_distance_matrix_cathepsin_genes.html)): Information about the precentage of identity between the cap.... genes. 
+[Genes simmilarity analysis](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Multiple_alignment_distance_matrix_cathepsin_genes.html): Information about the precentage of identity between the cap.... genes. 
 
 
 ### Who do I talk to? ###
