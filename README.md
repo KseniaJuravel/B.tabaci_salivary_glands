@@ -112,9 +112,9 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 
 
-Gene | mRNA | Protein | Reads coverage | Likelihood of signal peptide | 
+Gene | mRNA | Protein | Reads coverage | Likelihood of signal peptide 
 -- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-X | X | X | ![NAME OF GENE](http://url/to/img.png) | X | 
+X | X | X | ![NAME OF GENE](http://url/to/img.png) | X 
 
 
 
