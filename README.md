@@ -109,7 +109,7 @@ Blast against the reads using the NCBI platform and against the predicted genes 
 Therfore we analysed the obtained reads from the NCBI mapping them against the 13 genes of cathepsin which resulted in:
 
 1. Five genes were reads mapped poorly and inconsistent.
-
+תכניסי לתיקיה של הResults את התמונות בפורמט png ואז תדביקי את ה link = http://url/to/img.png אליהן, תראי דוגמא לזה בתוצאות של הסיגנל פפטייד.
 
 ![NAME OF GENE](http://url/to/img.png)
 ![NAME OF GENE](http://url/to/img.png)
