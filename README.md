@@ -111,10 +111,10 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 1. Five genes were reads mapped poorly and inconsistent.
 
 
-| FirstName     | LastName      | City     |
-| ------------- | ------------- | -------- |
-| John          | Test1         | NewYork  |
-| Bob           | Test2         | Toronto  |
+| Gene          | mRNA          | Protein  | Reads Coverage                        | Likelihood of signal peptide     |
+| ------------- | ------------- | -------- | ------------------------------------- | -------------------------------- |
+| John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
+| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
 
 
 
