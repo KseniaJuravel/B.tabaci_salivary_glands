@@ -1,4 +1,4 @@
-# B.tabci_salivary_glands
+# B.tabaci_salivary_glands
 
 
 In this work you can find the codes and explanations for 
