@@ -48,7 +48,7 @@ All the steps are listed and described below.
 
 [UGENE](LINK), [IGV](LINK), [bowtie](LINK), [Trinity](LINK) and [Transdecoder](link).
 
-[### Commands used for assembly and gene prediction from transcriptomic data ###](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/commands_file.sh)
+[Commands used for assembly and gene prediction from transcriptomic data](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/commands_file.sh)
 
 ### Commands used for mapping: ###
 
@@ -152,7 +152,11 @@ All seven well aligned genes had a likelihood of signal peptide above 0.8032.
 
 ### Supplementary Data: ###
 
-[Genes simmilarity analysis](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Multiple_alignment_distance_matrix_cathepsin_genes.html): Information about the precentage of identity between the cap.... genes. 
+[Genes simmilarity analysis](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Multiple_alignment_distance_matrix_cathepsin_genes.html): Information about the precentage of identity between the cap.... genes.
+
+[BLAST output file for step 3 in the general wokflow](LIMK)
+
+[BLAST output file for step 4 in the general wokflow](LIMK)
 
 
 ### Who do I talk to? ###
