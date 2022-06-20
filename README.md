@@ -111,17 +111,18 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 1. Five genes were reads mapped poorly and inconsistent.
 
 
+אפשר בטבלה או כרשימה כמי שמופיע בהמשך:
+מחקי את המיותר...
+
+
+
 | Gene          | mRNA          | Protein  | Reads Coverage                        | Likelihood of signal peptide     |
 | ------------- | ------------- | -------- | ------------------------------------- | -------------------------------- |
 | John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
 | Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
-
-
-
-
-| Gene | mRNA | Protein | Reads coverage | Likelihood of signal peptide | 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| X | X | X | ![NAME OF GENE](http://url/to/img.png) | X  |
+| John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
+| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
+| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
 
 
 
@@ -143,6 +144,10 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 ![NAME OF GENE](http://url/to/img.png)
 
+| Gene          | mRNA          | Protein  | Reads Coverage                        | Likelihood of signal peptide     |
+| ------------- | ------------- | -------- | ------------------------------------- | -------------------------------- |
+| John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
+
 
 3. Seven genes had high and equal coverage. 
 
@@ -154,6 +159,19 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 ![NAME OF GENE](http://url/to/img.png)
 ![NAME OF GENE](http://url/to/img.png)
 ![NAME OF GENE](http://url/to/img.png)
+
+
+| Gene          | mRNA          | Protein  | Reads Coverage                        | Likelihood of signal peptide     |
+| ------------- | ------------- | -------- | ------------------------------------- | -------------------------------- |
+| John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
+| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
+| John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
+| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
+| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
+| Gene          | mRNA          | Protein  | Reads Coverage                        | Likelihood of signal peptide     |
+| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
+| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
+
 
 
 **Identification of the genes as genes from the salivary gland using signal peptides**
