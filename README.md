@@ -140,7 +140,7 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 All seven well aligned genes had a likelihood of signal peptide above 0.8032. 
 
-[Results PDF for the analysis](LINK)
+[Results PDF for the analysis](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/SignalP%20-%205.0%20-%20Services%20-%20DTU%20Health%20Tech.pdf)
 
 
 ### Supplementary Data: ###
