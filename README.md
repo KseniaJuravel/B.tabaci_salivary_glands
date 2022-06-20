@@ -48,11 +48,11 @@ All the steps are listed and described below.
 
 [UGENE](LINK), [IGV](LINK), [bowtie](LINK), [Trinity](LINK) and [Transdecoder](link).
 
-
+[### Commands used for assembly and gene prediction from transcriptomic data ###](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/commands_file.sh)
 
 ### Commands used for mapping: ###
 
-The reads where mapped and manually analyzed using the following commands:
+The reads where mapped and manually analyzed using the following [commands](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/commands_file.sh):
 
 1. Indexing of the database ($i == Transcripts of cathepsin B and L genes):
 
