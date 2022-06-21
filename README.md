@@ -36,7 +36,7 @@ All the steps are listed and described below.
 
 1. File of 13 cathepsin B and L genes created.
 2. Simmilrity of genes was accessed.
-3. The genes blasted against 8,610 salivry gland genes in *B.tabaci* found in the NCBI.
+3. The genes blasted against 8,610 salivary gland genes in *B.tabaci* found in the NCBI.
 4. Transcriptomic data from salivary glands of *B.tabaci* blasted in the NCBI online against the genes.
 5. Transcriptomic data from salivary glands of *B.tabaci* was assembled using Trinity and genes were predicted using Transdecoder.
 6. Transcriptomic data from salivary glands of *B.tabaci* was mapped against the genes.
