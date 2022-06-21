@@ -165,7 +165,7 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 [BLAST output file for step 3 in the general wokflow](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/B0N3MZAK114-Alignment-HitTable%20.csv)
 
-[BLAST output file for step 4 in the general wokflow](LIMK)
+[BLAST output file for step 5 in the general wokflow](LIMK)
 
 
 ### Who do I talk to? ###
