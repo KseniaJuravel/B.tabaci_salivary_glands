@@ -170,5 +170,5 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 ### Who do I talk to? ###
 
-* Repo membares or admin
+* Repo members or admin
 
