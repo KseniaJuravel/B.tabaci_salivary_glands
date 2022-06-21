@@ -5,7 +5,7 @@ This repository includes all the codes, results  and explanations for the identi
 
 of the differentially expressed cathepsin B and L genes from figures 5 and 6 in the article
 
-"NAME OF ARTICLE". These genes are likely to be found at the salivary glands of the whitefly
+"Evolved transcriptional responses and their trade-offs after long-term adaptation of *Bemisia tabaci* to a marginally-suitable host". These genes are likely to be found at the salivary glands of the whitefly
 
 *Bemisia tabaci* (Gennadius) (Hemiptera: Aleyrodidae) MEAM1.
 
