@@ -5,7 +5,7 @@ This repository includes all the codes, results  and explanations for the identi
 
 
 
-The following files were obtained from the NCBI for the analysis:
+The following files were obtained from the NCBI for the analysis (4-7 in the general workflow):
 
 1. RNAseq of salivary glands
 
@@ -31,8 +31,8 @@ All the steps are listed and described below.
 1. File of 13 cathepsin B and L genes created.
 2. Simmilrity of genes was accessed.
 3. The genes blasted against 8,610 salivary gland genes in *B.tabaci* found in the NCBI.
-4. Transcriptomic data from salivary glands of *B.tabaci* blasted in the NCBI online against the genes.
 5. Transcriptomic data from salivary glands of *B.tabaci* was assembled using Trinity and genes were predicted using Transdecoder.
+4. Transcriptomic data from salivary glands of *B.tabaci* blasted in the NCBI online against the genes.
 6. Transcriptomic data from salivary glands of *B.tabaci* was mapped against the genes.
 7. The genes were analised for signal peptides (SP) in the webpage [signalP](https://services.healthtech.dtu.dk/service.php?SignalP-5.0).
 
