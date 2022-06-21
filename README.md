@@ -104,7 +104,7 @@ The output was visualized in IGV and PNG of each gene with his covarge was expor
 
 **Identification of the genes as genes from the salivary gland using trabscriptomic data**
 
-Blast against the reads using the NCBI platform and against the predicted genes from the reads wwere not sensitive enough.
+Blast against the reads using the NCBI platform and against the predicted genes from the reads were not sensitive enough.
 
 Therfore we analysed the obtained reads from the NCBI mapping them against the 13 genes of cathepsin which resulted in:
 
@@ -116,10 +116,10 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 
 
-| Gene          | mRNA          | Protein  | Reads Coverage                        | Likelihood of signal peptide     |
-| ------------- | ------------- | -------- | ------------------------------------- | -------------------------------- |
-| John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
-| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
+| Gene          | mRNA          | Protein       | Reads Coverage                        | Likelihood of signal peptide     |
+| ------------- | ------------- | ------------- | ------------------------------------- | -------------------------------- |
+| LOC109031789  | XM_019043541.1| XP_018899086.1| ![NAME OF GENE](http://url/to/img.png)| Test1         0.792            |
+| LOC109032723  | XM_019044995.1| XP_018900540.1| Bob                                   | Test2         0.9549            |
 | John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
 | Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
 | Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
