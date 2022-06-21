@@ -104,6 +104,7 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 1. Five genes were reads mapped poorly and inconsistent.
 
+
 | Gene          | mRNA          | Protein       | Reads Coverage                        | Likelihood of signal peptide     |
 | ------------- | ------------- | ------------- | ------------------------------------- | -------------------------------- |
 | LOC109031789  | XM_019043541.1| XP_018899086.1| ![LOC109031789](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019043541.1.png)|            0.792                 |
@@ -113,12 +114,14 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 | LOC109042262  | XM_019058909.1| XP_018914454.1| ![LOC109042262](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019058909.1.png) |            0.9908                |
 
 
+
 2. One of the references catapsine genes had small amounts of reads mapping to it but equally distributed over all the gene.
 
 
 | Gene          | mRNA          | Protein       | Reads Coverage                        | Likelihood of signal peptide     |
 | ------------- | ------------- | ------------- | ------------------------------------- | -------------------------------- |
 | LOC109042327  | XM_019059005.1| XP_018914550.1| ![LOC109042327](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059005.1.png))|              0.2968              |
+
 
 
 3. Seven genes had high and equal coverage. 
