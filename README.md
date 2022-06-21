@@ -46,7 +46,7 @@ All the steps are listed and described below.
 ### Programs used: ###
 
 
-[UGENE](http://ugene.net/), [IGV]([LINK](https://software.broadinstitute.org/software/igv/), [bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml), [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki) and [Transdecoder](https://github.com/TransDecoder/TransDecoder/wiki).
+[UGENE](http://ugene.net/), [IGV](https://software.broadinstitute.org/software/igv/), [bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml), [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki) and [Transdecoder](https://github.com/TransDecoder/TransDecoder/wiki).
 
 [Commands used for assembly and gene prediction from transcriptomic data](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/commands_file.sh)
 
