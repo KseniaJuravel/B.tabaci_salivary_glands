@@ -31,9 +31,9 @@ All the steps are listed and described below.
 1. File of 13 cathepsin B and L genes created.
 2. Simmilrity of genes was accessed.
 3. The genes blasted against 8,610 salivary gland genes in *B.tabaci* found in the NCBI.
-?4. Transcriptomic data from salivary glands of *B.tabaci* blasted in the NCBI online against the genes.
-?5. Transcriptomic data from salivary glands of *B.tabaci* was assembled using Trinity and genes were predicted using Transdecoder.
-?6. Transcriptomic data from salivary glands of *B.tabaci* was mapped against the genes.
+4. Transcriptomic data from salivary glands of *B.tabaci* blasted in the NCBI online against the genes.
+5. Transcriptomic data from salivary glands of *B.tabaci* was assembled using Trinity and genes were predicted using Transdecoder.
+6. Transcriptomic data from salivary glands of *B.tabaci* was mapped against the genes.
 7. The genes were analised for signal peptides (SP) in the webpage [signalP](https://services.healthtech.dtu.dk/service.php?SignalP-5.0).
 
 
@@ -150,7 +150,7 @@ All seven well aligned genes had a likelihood of signal peptide above 0.8032.
 
 [BLAST output file for step 3 in the general wokflow](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/B0N3MZAK114-Alignment-HitTable%20.csv)
 
-?[BLAST output file for step 4 in the general wokflow](LIMK)
+[BLAST output file for step 4 in the general wokflow](LIMK)
 
 
 ### Who do I talk to? ###
