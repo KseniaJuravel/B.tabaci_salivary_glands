@@ -141,6 +141,41 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 All seven well aligned genes had a likelihood of signal peptide above 0.8032. 
 
+
+
+
+| Gene          | mRNA          | Protein       | Reads Coverage                        | Likelihood of signal peptide     |
+| ------------- | ------------- | ------------- | ------------------------------------- | -------------------------------- |
+| LOC109031789  | XM_019043541.1| XP_018899086.1| ![LOC109031789](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019043541.1.png)|            0.792                 |
+| LOC109032723  | XM_019044995.1| XP_018900540.1| ![LOC109032723](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019044995.1.png)|            0.9549                |
+| LOC109032724  | XM_019045001.1| XP_018900546.1| ![LOC109032724](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019045001.1.png))|            0.9551                |
+| LOC109040923  | XM_019057048  | XP_018912593.1| ![LOC109040923](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019057048.1.png) |            0.9406                |
+| LOC109042262  | XM_019058909.1| XP_018914454.1| ![LOC109042262](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019058909.1.png) |            0.9908                |
+
+
+
+2. One of the references catapsine genes had small amounts of reads mapping to it but equally distributed over all the gene.
+
+
+| Gene          | mRNA          | Protein       | Reads Coverage                        | Likelihood of signal peptide     |
+| ------------- | ------------- | ------------- | ------------------------------------- | -------------------------------- |
+| LOC109042327  | XM_019059005.1| XP_018914550.1| ![LOC109042327](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059005.1.png)|              0.2968              |
+
+
+
+3. Seven genes had high and equal coverage. 
+
+| Gene          | mRNA          | Protein         | Signal peptide                        | 
+| ------------- | ------------- | --------------- | ------------------------------------- |
+| LOC109031579  | XM_019043171.1| XP_018898716.1  | ![LOC109031579](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019043171.1.png)|
+| LOC109031589  | XM_019043181.1| XP_018898726.1  | ![LOC109031589](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019043181.1.png)|
+| LOC109032360  | XM_019044441.1|  XP_018899986.1 | ![LOC109032360](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019044441.1.png)|
+| LOC109036811  | XM_019051187.1| XP_018906732.1  | ![LOC109036811](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019051187.1.png)|
+| LOC109039209  | XM_019054602.1| XP_018910147.1  | ![LOC109039209](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019054602.1.png)|
+| LOC109042507  | XM_019059295.1| XP_018914840.1  | ![LOC109042507](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059295.1.png)|
+| LOC109042510  | XM_019059300.1| XP_018914845.1  | ![LOC109042510](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059300.1.png)|
+
+
 [Results PDF for the analysis](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/SignalP%20-%205.0%20-%20Services%20-%20DTU%20Health%20Tech.pdf)
 
 
