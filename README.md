@@ -110,12 +110,6 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 1. Five genes were reads mapped poorly and inconsistent.
 
-
-אפשר בטבלה או כרשימה כמי שמופיע בהמשך:
-מחקי את המיותר...
-
-
-
 | Gene          | mRNA          | Protein       | Reads Coverage                        | Likelihood of signal peptide     |
 | ------------- | ------------- | ------------- | ------------------------------------- | -------------------------------- |
 | LOC109031789  | XM_019043541.1| XP_018899086.1| ![LOC109031789](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019043541.1.png)|            0.792                 |
@@ -125,23 +119,8 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 | LOC109042262  | XM_019058909.1| XP_018914454.1| ![LOC109042262](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019058909.1.png) |            0.9908                |
 
 
-תכניסי לתיקיה של הResults את התמונות בפורמט png ואז תדביקי את ה link = http://url/to/img.png אליהן, תראי דוגמא לזה בתוצאות של הסיגנל פפטייד.
-
-![NAME OF GENE](http://url/to/img.png)
-
-![NAME OF GENE](http://url/to/img.png)
-
-![NAME OF GENE](http://url/to/img.png)
-
-![NAME OF GENE](http://url/to/img.png)
-
-![NAME OF GENE](http://url/to/img.png)
-
-
 2. One of the references catapsine genes had small amounts of reads mapping to it but equally distributed over all the gene.
 
-
-![NAME OF GENE](http://url/to/img.png)
 
 | Gene          | mRNA          | Protein       | Reads Coverage                        | Likelihood of signal peptide     |
 | ------------- | ------------- | ------------- | ------------------------------------- | -------------------------------- |
@@ -149,16 +128,6 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 
 3. Seven genes had high and equal coverage. 
-
-
-![NAME OF GENE](http://url/to/img.png)
-![NAME OF GENE](http://url/to/img.png)
-![NAME OF GENE](http://url/to/img.png)
-![NAME OF GENE](http://url/to/img.png)
-![NAME OF GENE](http://url/to/img.png)
-![NAME OF GENE](http://url/to/img.png)
-![NAME OF GENE](http://url/to/img.png)
-
 
 | Gene          | mRNA          | Protein         | Reads Coverage                        | Likelihood of signal peptide     |
 | ------------- | ------------- | --------------- | ------------------------------------- | -------------------------------- |
