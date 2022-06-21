@@ -143,9 +143,9 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 ![NAME OF GENE](http://url/to/img.png)
 
-| Gene          | mRNA          | Protein  | Reads Coverage                        | Likelihood of signal peptide     |
-| ------------- | ------------- | -------- | ------------------------------------- | -------------------------------- |
-| John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
+| Gene          | mRNA          | Protein       | Reads Coverage                        | Likelihood of signal peptide     |
+| ------------- | ------------- | ------------- | ------------------------------------- | -------------------------------- |
+| LOC109042327  | XM_019059005.1| XP_018914550.1| ![LOC109042327](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059005.1.png))|              0.2968              |
 
 
 3. Seven genes had high and equal coverage. 
@@ -160,17 +160,15 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 ![NAME OF GENE](http://url/to/img.png)
 
 
-| Gene          | mRNA          | Protein  | Reads Coverage                        | Likelihood of signal peptide     |
-| ------------- | ------------- | -------- | ------------------------------------- | -------------------------------- |
-| John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
-| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
-| John          | Test1         | NewYork  | ![NAME OF GENE](http://url/to/img.png)| Test1         NewYork            |
-| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
-| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
-| Gene          | mRNA          | Protein  | Reads Coverage                        | Likelihood of signal peptide     |
-| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
-| Bob           | Test2         | Toronto  | Bob                                   | Test2         Toronto            |
-
+| Gene          | mRNA          | Protein         | Reads Coverage                        | Likelihood of signal peptide     |
+| ------------- | ------------- | --------------- | ------------------------------------- | -------------------------------- |
+| LOC109031579  | XM_019043171.1| XP_018898716.1  | ![LOC109031579](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019043171.1.png)|                0.9086            |
+| LOC109031589  | XM_019043181.1| XP_018898726.1  | ![LOC109031589](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019043181.1.png)|                0.9472            |
+| LOC109032360  | XM_019044441.1|  XP_018899986.1 | ![LOC109032360](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019044441.1.png)|                0.9858            |
+| LOC109036811  | XM_019051187.1| XP_018906732.1  | ![LOC109036811](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019051187.1.png)|                0.9726            |
+| LOC109039209  | XM_019054602.1| XP_018910147.1  | ![LOC109039209](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019054602.1.png)|                0.998             |
+| LOC109042507  | XM_019059295.1| XP_018914840.1  | ![LOC109042507](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059295.1.png)|                0.9798            |
+| LOC109042510  | XM_019059300.1| XP_018914845.1  | ![LOC109042510](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059300.1.png)|                0.8032            |
 
 
 **Identification of the genes as genes from the salivary gland using signal peptides**
