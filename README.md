@@ -145,7 +145,7 @@ All seven well aligned genes had a likelihood of signal peptide above 0.8032.
 
 [Genes simmilarity analysis](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Multiple_alignment_distance_matrix_cathepsin_genes.html): Information about the precentage of identity between the cathepsin B and L genes.
 
-[BLAST output file for step 3 in the general wokflow](LIMK)
+[BLAST output file for step 3 in the general wokflow](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/B0N3MZAK114-Alignment-HitTable%20.csv)
 
 [BLAST output file for step 4 in the general wokflow](LIMK)
 
