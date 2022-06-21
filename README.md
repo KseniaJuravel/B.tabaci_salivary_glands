@@ -31,8 +31,8 @@ All the steps are listed and described below.
 1. File of 13 cathepsin B and L genes created.
 2. Simmilrity of genes was accessed.
 3. The genes blasted against 8,610 salivary gland genes in *B.tabaci* found in the NCBI.
-5. Transcriptomic data from salivary glands of *B.tabaci* was assembled using Trinity and genes were predicted using Transdecoder.
 4. Transcriptomic data from salivary glands of *B.tabaci* blasted in the NCBI online against the genes.
+5. Transcriptomic data from salivary glands of *B.tabaci* was assembled using Trinity and genes were predicted using Transdecoder.
 6. Transcriptomic data from salivary glands of *B.tabaci* was mapped against the genes.
 7. The genes were analised for signal peptides (SP) in the webpage [signalP](https://services.healthtech.dtu.dk/service.php?SignalP-5.0).
 
@@ -120,7 +120,7 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 | Gene          | mRNA          | Protein       | Reads Coverage                        | Likelihood of signal peptide     |
 | ------------- | ------------- | ------------- | ------------------------------------- | -------------------------------- |
-| LOC109042327  | XM_019059005.1| XP_018914550.1| ![LOC109042327](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059005.1.png))|              0.2968              |
+| LOC109042327  | XM_019059005.1| XP_018914550.1| ![LOC109042327](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059005.1.png)|              0.2968              |
 
 
 
