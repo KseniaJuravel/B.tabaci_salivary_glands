@@ -5,7 +5,7 @@ This repository includes all the codes, results  and explanations for the identi
 
 
 
-The following files were obtained from the NCBI for the analysis (4-7 in the general workflow):
+The following files were obtained from the NCBI for the analysis:
 
 1. RNAseq of salivary glands
 
