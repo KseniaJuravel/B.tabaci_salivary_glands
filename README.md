@@ -71,7 +71,7 @@ for i in XM_*.fa; do bowtie2 --fast -p 16 -x $i  -1 *_R1.fastq.gz -2 *_R2.fastq.
 `______________________________________________________________________________`
 
 
-4. Converting from SAM to BAM and indexing the BAM for data visualization in IGV: 
+3. Converting from SAM to BAM and indexing the BAM for data visualization in IGV: 
 
 
 `______________________________________________________________________________`
