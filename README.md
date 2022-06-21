@@ -46,7 +46,7 @@ All the steps are listed and described below.
 ### Programs used: ###
 
 
-[UGENE](LINK), [IGV](LINK), [bowtie](LINK), [Trinity](LINK) and [Transdecoder](link).
+[UGENE](http://ugene.net/), [IGV](LINK), [bowtie](LINK), [Trinity](LINK) and [Transdecoder](link).
 
 [Commands used for assembly and gene prediction from transcriptomic data](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/commands_file.sh)
 
@@ -149,7 +149,7 @@ All seven well aligned genes had a likelihood of signal peptide above 0.8032.
 
 ### Supplementary Data: ###
 
-[Genes simmilarity analysis](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Multiple_alignment_distance_matrix_cathepsin_genes.html): Information about the precentage of identity between the cap.... genes.
+[Genes simmilarity analysis](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Multiple_alignment_distance_matrix_cathepsin_genes.html): Information about the precentage of identity between the cathepsin B and L genes.
 
 [BLAST output file for step 3 in the general wokflow](LIMK)
 
