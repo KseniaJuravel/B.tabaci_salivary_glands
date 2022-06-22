@@ -135,8 +135,15 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 | LOC109040923  | XM_019057048  | XP_018912593.1| ![LOC109040923](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019057048.1.png) | 
 | LOC109042262  | XM_019058909.1| XP_018914454.1| ![LOC109042262](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019058909.1.png) | 
 
+ 
 
-**Identification of the genes as genes from the salivary gland using signal peptides**
+
+
+
+
+
+
+**Identification of the genes as genes from the salivary gland using signal peptides **
 
 
 | Gene          | mRNA          | Protein       | Signal peptide analysis    |
