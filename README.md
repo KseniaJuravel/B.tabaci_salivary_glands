@@ -143,7 +143,9 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 
 
 
-**Identification of the genes as genes from the salivary gland using signal peptides **
+**Identification of the genes as genes from the salivary gland using signal peptides**
+
+
 
 
 | Gene          | mRNA          | Protein       | Signal peptide analysis    |
