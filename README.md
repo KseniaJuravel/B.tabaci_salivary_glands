@@ -44,6 +44,44 @@ All the steps are listed and described below.
 
 [Commands used for assembly and gene prediction from transcriptomic data](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/commands_file.sh)
 
+
+
+### Commands used for BLASTing: ###
+
+
+
+
+`______________________________________________________________________________`
+
+
+
+makeblastdb -in Trinity_single.fasta -dbtype nucl -out Trinity_single.fasta
+
+`______________________________________________________________________________`
+`______________________________________________________________________________`
+
+
+
+
+makeblastdb -in Trinity_paired.fasta -dbtype nucl -out Trinity_paired.fasta
+
+`______________________________________________________________________________`
+`______________________________________________________________________________`
+
+
+
+
+for i in Trinity_paired.fasta Trinity_single.fasta; do blastn -query $i -db cathepsin.fa -out $i.results.txt -outfmt 6; done
+
+`______________________________________________________________________________`
+
+Results files can be found at the Results folder:
+
+[BLASTN_for_Trinity_paired.fasta.results.txt](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/BLASTN_for_Trinity_paired.fasta.results.txt)
+
+[BLASTN_for_Trinity_single.fasta.results.txt](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/BLASTN_for_Trinity_single.fasta.results.txt)
+
+
 ### Commands used for mapping: ###
 
 The reads where mapped and manually analyzed using the following [commands](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/commands_file.sh):
