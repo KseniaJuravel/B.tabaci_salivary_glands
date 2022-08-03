@@ -153,7 +153,7 @@ Therfore we analysed the obtained reads from the NCBI mapping them against the 1
 | LOC109042510  | XM_019059300.1| XP_018914845.1 | ![LOC109042510](https://github.com/KseniaJuravel/B.tabaci_salivary_glands/blob/main/Results/igv_XM_019059300.1.png)|
 
 
-2. One of the references catheps genes had small amounts of reads mapping to it but equally distributed over all the gene.
+2. One of the references cathepsin genes had small amounts of reads mapping to it but equally distributed over all the gene.
 
 
 | Gene          | mRNA          | Protein       | Reads Coverage                        |
